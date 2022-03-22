@@ -1,2 +1,3 @@
 # git-test
-git-test repository. 
+
+git-test repository. Only for test
